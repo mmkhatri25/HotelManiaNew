@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "ChessClub"
+  m_EditorClassIdentifier: 
+  floorName: "ChessClub"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323641, guid: acd0bb39d5dc4683a36fe777ed290b31, type: 2}
+  floorSprite: {fileID: 21300000, guid: 69928d1fd08e419e84d4d04c96f50963, type: 3}
+  floorCharacter: {fileID: 11400000, guid: 9ba536750a824822ac0c5ce39dfaf1bf, type: 2}
+  char1: {fileID: 21300000, guid: 3129a684e73b450b93f94ee75645c8eb, type: 3}
+  char2: {fileID: 21300000, guid: 870de53ed07c41a48b700f3a67987db8, type: 3}
+  char3: {fileID: 21300000, guid: cd6ab28d5a5a4b71b6ff35aab1a6d395, type: 3}
+  displayName: "Chess Club"
+  displayDesc: "We should maybe paint the walls in a Deep Blue colour..."
+  neverEquipped: 1
+  isSecret: 0

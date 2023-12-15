@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "SpaceCharArt1"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: af742c8497734cf5803db9b6b8930489, type: 3}
+  legLeft: {fileID: 21300000, guid: 041c2ee6f36745859e82437366441a39, type: 3}
+  legRigth: {fileID: 21300000, guid: 3ddc35a784ba4aa79b1afba7938023c2, type: 3}

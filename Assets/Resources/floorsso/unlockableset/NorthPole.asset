@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "NorthPole"
+  m_EditorClassIdentifier: 
+  floorName: "NorthPole"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323649, guid: c4b289afcf774b15844cb8b1df89f94c, type: 2}
+  floorSprite: {fileID: 21300000, guid: 4f663ccae3ac4a789dc8c556c8cc2817, type: 3}
+  floorCharacter: {fileID: 11400000, guid: a39ae25ac18d4f0dac107cff16ceb8c3, type: 2}
+  char1: {fileID: 21300000, guid: 18b9c12074844cd8859a966047154a5e, type: 3}
+  char2: {fileID: 21300000, guid: 9e23dc37747e48f49265a2a5cb257245, type: 3}
+  char3: {fileID: 21300000, guid: 9f1767c93c3f4d02b732f17479caf3ae, type: 3}
+  displayName: "North Pole"
+  displayDesc: "Sit back, relax and chill..."
+  neverEquipped: 1
+  isSecret: 0

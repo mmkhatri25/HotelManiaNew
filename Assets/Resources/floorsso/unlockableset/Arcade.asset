@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Arcade"
+  m_EditorClassIdentifier: 
+  floorName: "Arcade"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323648, guid: 5b09e1ccdbe34ef188a24cfe9cf4e4ab, type: 2}
+  floorSprite: {fileID: 21300000, guid: 415a04a341bc4aa7b16ea505d116bef6, type: 3}
+  floorCharacter: {fileID: 11400000, guid: fce05ea810d641e385020d61c44d0855, type: 2}
+  char1: {fileID: 21300000, guid: 23a0f3570eb446bd89e4d81a2d91e1de, type: 3}
+  char2: {fileID: 21300000, guid: b9249abcc4f4499ba21532abe80c8b5c, type: 3}
+  char3: {fileID: 21300000, guid: 732ca642bffe499a8cf270514b7ff37d, type: 3}
+  displayName: "Arcade"
+  displayDesc: "Game Over! Insert coin to Continue"
+  neverEquipped: 1
+  isSecret: 0

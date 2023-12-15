@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39937e55a4f8c582f23ff6acf7c52316, type: 3}
+  m_Name: "OutageSO"
+  m_EditorClassIdentifier: 
+  minTime: 15
+  maxTime: 25
+  minTaps: 4
+  maxTaps: 8
+  tapImage: {fileID: 1790292974091324153, guid: a2ae22d50f1b40af98d79724c22b04cf, type: 2}
+  prefab: {fileID: 1790292974091324227, guid: 1d1c9f8dd8924688adc51776ec861252, type: 2}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Medieval"
+  m_EditorClassIdentifier: 
+  floorName: "Medieval"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323645, guid: 812479c81a394a9ebc583e8c119910fd, type: 2}
+  floorSprite: {fileID: 21300000, guid: f00302b77c94453bb0b4ffdf3ebcab28, type: 3}
+  floorCharacter: {fileID: 11400000, guid: e155352f7c2a4f5d8f37ad39143b0d17, type: 2}
+  char1: {fileID: 21300000, guid: 3fff9537e4de441d94b9ae4fa1ceb65c, type: 3}
+  char2: {fileID: 21300000, guid: 3c641c26d63a452cba4452814de13215, type: 3}
+  char3: {fileID: 21300000, guid: 09b29a0524c6495d8dcd6af80f4b745e, type: 3}
+  displayName: "Medieval Era"
+  displayDesc: "Roll for initiative..."
+  neverEquipped: 1
+  isSecret: 0

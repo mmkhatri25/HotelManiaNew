@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "FireStation"
+  m_EditorClassIdentifier: 
+  floorName: "FireStation"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323639, guid: 1e35d263e82743baae0a0bffdd053c89, type: 2}
+  floorSprite: {fileID: 21300000, guid: ecd3b22b7b2741d8a0e810efe777c2d1, type: 3}
+  floorCharacter: {fileID: 11400000, guid: 486be1df42ea4ef6a627aab4c1dbc403, type: 2}
+  char1: {fileID: 21300000, guid: bd3122b386e34ee2b1112ee9a6338376, type: 3}
+  char2: {fileID: 21300000, guid: b3c4daf09dba40fe8360876a47212773, type: 3}
+  char3: {fileID: 21300000, guid: e1824dd7895349f0bba1a3e0b6893e6c, type: 3}
+  displayName: "Fire Station"
+  displayDesc: "Fun fact - If you hug a firefighter you'll feel warm all over."
+  neverEquipped: 1
+  isSecret: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Bakery"
+  m_EditorClassIdentifier: 
+  floorName: "Bakery"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323643, guid: ddb63e174a7847a998d8355681839ecd, type: 2}
+  floorSprite: {fileID: 21300000, guid: 391d72362d6149a0b055ecf1396857e7, type: 3}
+  floorCharacter: {fileID: 11400000, guid: c0e668a593414715869dcec8ff217782, type: 2}
+  char1: {fileID: 21300000, guid: 3b2300f130994962a1dc2177a85ba0e6, type: 3}
+  char2: {fileID: 21300000, guid: 22f7de6559734b42836d6345859c0d8e, type: 3}
+  char3: {fileID: 21300000, guid: 065c4ec0b42340e18314e2642bff7ded, type: 3}
+  displayName: "Bakery"
+  displayDesc: "Sugar and spice and everything nice."
+  neverEquipped: 1
+  isSecret: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "Scientist"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 1
+  charClass: "Scientist"
+  prefab: {fileID: 1790292974091324061, guid: 5df1e6bc8b0d45f38b3d507170780d9a, type: 2}
+  positions: 1
+  weightMod: 0
+  elevatorDirectionMod: -1
+  hasDestination: 1
+  charsArtList: []
+  specialCharIntroAnimPrefab: {fileID: 1790292974091324150, guid: 130fee932aeb450bb4e61f436703d462, type: 2}
+  elevatorStatusSprite: {fileID: 21300000, guid: a9906bff4a554d11ac7c57b2639f2331, type: 3}
+  specialCharGeneralAnim: {fileID: 1790292974091324858, guid: 0f153579c3394a2ea29160e7048d126a, type: 2}

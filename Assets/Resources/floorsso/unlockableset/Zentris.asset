@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: Zentris
+  m_EditorClassIdentifier: 
+  floorName: Zentris
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323656, guid: 7ee580bf60d54f0f878938cabd7bf5bc, type: 3}
+  floorSprite: {fileID: 21300000, guid: 4c5ad36f217d442b99a220049a28da19, type: 3}
+  floorCharacter: {fileID: 11400000, guid: 503354b5cc07450ca7bec0754edcf815, type: 2}
+  char1: {fileID: 21300000, guid: 02f6628f78504803b61eb9b2c4dca03c, type: 3}
+  char2: {fileID: 21300000, guid: 57daab8b8e8143b0a670f939938441ce, type: 3}
+  char3: {fileID: 21300000, guid: 188c7e443f464c2a85648bc0cc582f2c, type: 3}
+  displayName: Zentris
+  displayDesc: 
+  neverEquipped: 1
+  isSecret: 0

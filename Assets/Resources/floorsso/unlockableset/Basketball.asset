@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Basketball"
+  m_EditorClassIdentifier: 
+  floorName: "Basketball"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323643, guid: 1606e4ae6b044c899d7e0e867ca0d4f1, type: 2}
+  floorSprite: {fileID: 21300000, guid: fb6655ee00a247caa0998deb1c6a19ff, type: 3}
+  floorCharacter: {fileID: 11400000, guid: 79781244c05f4c5abddca99775b0922d, type: 2}
+  char1: {fileID: 21300000, guid: e9e5250ee9b448a29a1cd49f35e9555a, type: 3}
+  char2: {fileID: 21300000, guid: 3c3ffc0ddc374ad28774786927679c5c, type: 3}
+  char3: {fileID: 21300000, guid: 2af486734cee46689466b6ccf0810e5e, type: 3}
+  displayName: "Basketball Court"
+  displayDesc: "BOOMSHAKALAKA"
+  neverEquipped: 1
+  isSecret: 0

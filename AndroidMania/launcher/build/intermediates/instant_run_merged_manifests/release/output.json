@@ -1,0 +1,1 @@
+[{"outputType":{"type":"INSTANT_RUN_MERGED_MANIFESTS"},"apkData":{"type":"MAIN","splits":[],"versionCode":5,"versionName":"1.5","enabled":true,"outputFile":"launcher-release.apk","fullName":"release","baseName":"release"},"path":"AndroidManifest.xml","properties":{"packageId":"com.azec.hotelmania","split":"","minSdkVersion":"19"}}]

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Garden"
+  m_EditorClassIdentifier: 
+  floorName: "Garden"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323652, guid: 15b570724763483abe706e85ed443c7b, type: 2}
+  floorSprite: {fileID: 21300000, guid: fc0e803577c64400a01d44372786282d, type: 3}
+  floorCharacter: {fileID: 11400000, guid: f7a5540b5cd84d85ba317cc0b8fb9d87, type: 2}
+  char1: {fileID: 21300000, guid: e57f04ffa4c3434c9016d76df50a539f, type: 3}
+  char2: {fileID: 21300000, guid: 0b35d48829e0474ab642259bed40ead6, type: 3}
+  char3: {fileID: 21300000, guid: 41ef8bda565847348a341c3f1d179304, type: 3}
+  displayName: "Garden"
+  displayDesc: "Stay off the grass - and don't touch my petunias!"
+  neverEquipped: 1
+  isSecret: 0

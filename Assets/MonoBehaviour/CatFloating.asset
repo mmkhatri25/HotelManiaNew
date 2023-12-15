@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19f5ecacb598e1f17acdf4f3478e0cf6, type: 3}
+  m_Name: "CatFloating"
+  m_EditorClassIdentifier: 
+  m_ApiVersion: 4
+  m_Sprite: {fileID: 21300000, guid: 35b09a2cdd88447eb7e1d9e9e31d2f6c, type: 3}
+  m_SharedMesh: {fileID: 4300000, guid: f392145463d5495ca6cf2a2492328ff1, type: 2}

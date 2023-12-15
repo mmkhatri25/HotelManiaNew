@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: db5c7d179dd548c6b8110a48a0fb6941
+timeCreated: 1601550414
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Bazar"
+  fontNames:
+  - Bazar
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

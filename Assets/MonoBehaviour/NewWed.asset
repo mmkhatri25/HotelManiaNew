@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "NewWed"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 1
+  charClass: "Newlyweds"
+  prefab: {fileID: 1790292974091324028, guid: 046d27871a1349e481bb52c83c6d2c7f, type: 2}
+  positions: 2
+  weightMod: 0
+  elevatorDirectionMod: 1
+  hasDestination: 1
+  charsArtList: []
+  specialCharIntroAnimPrefab: {fileID: 1790292974091324145, guid: d0e8b21a691c4c4095209f0c89ed4686, type: 2}
+  elevatorStatusSprite: {fileID: 21300000, guid: e072be83ba544d3c81630b5a5e35373d, type: 3}
+  specialCharGeneralAnim: {fileID: 0}

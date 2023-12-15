@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Circus"
+  m_EditorClassIdentifier: 
+  floorName: "Circus"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323637, guid: 0be7fcdcf2794396b683f2d7fc172171, type: 2}
+  floorSprite: {fileID: 21300000, guid: 51e8a05f17dd4d50841d70b658657421, type: 3}
+  floorCharacter: {fileID: 11400000, guid: 40e8c2827bd4450699706338ee835c01, type: 2}
+  char1: {fileID: 21300000, guid: 4e92a323a9db4c77b60ffd382ae13cb8, type: 3}
+  char2: {fileID: 21300000, guid: 0ec0ee7e010542b4b6598269c8207fb7, type: 3}
+  char3: {fileID: 21300000, guid: 6b4d98595a1c49fc8839efbb1f060f67, type: 3}
+  displayName: "Circus"
+  displayDesc: "Ladies and gentlemen, boys and girls!"
+  neverEquipped: 1
+  isSecret: 0

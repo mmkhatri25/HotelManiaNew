@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "WildWestBar"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 0
+  charClass: "WildWestChar"
+  prefab: {fileID: 1790292974091323636, guid: 61839b6de02f4e8c9b67cbfde66c7a3c, type: 2}
+  positions: 1
+  weightMod: 0
+  elevatorDirectionMod: 1
+  hasDestination: 1
+  charsArtList:
+  - {fileID: 11400000, guid: fe329126b6ba42b0810e5ec2d0589474, type: 2}
+  - {fileID: 11400000, guid: 6209ac78e3ec42ad883600189b40a0bd, type: 2}
+  - {fileID: 11400000, guid: a761038c5ebd4a76a4f7bc6889304716, type: 2}
+  specialCharIntroAnimPrefab: {fileID: 0}
+  elevatorStatusSprite: {fileID: 0}
+  specialCharGeneralAnim: {fileID: 0}

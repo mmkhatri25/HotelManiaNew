@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3124fcf217b1449d8ea648521bd46ffc
+timeCreated: 1601550353
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Avalon"
+  fontNames:
+  - Avalon
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

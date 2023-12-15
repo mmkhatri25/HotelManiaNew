@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "MedievalCharArt1"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: cfb3d08ce0b34c799c710f93431e5d5a, type: 3}
+  legLeft: {fileID: 21300000, guid: b7932bf3f25d41cfba437b66241c9220, type: 3}
+  legRigth: {fileID: 21300000, guid: 38b0503020214fd3b8727cfde82dbd8f, type: 3}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "SuperMarioCharArt2"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: f8a563a432294fecbe86da6bb1d82874, type: 3}
+  legLeft: {fileID: 21300000, guid: 30582ffb1f924063a78ea9a8134c3294, type: 3}
+  legRigth: {fileID: 21300000, guid: 2a23c5cbb88f465b9c12a660970ae291, type: 3}

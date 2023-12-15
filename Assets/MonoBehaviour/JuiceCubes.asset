@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "JuiceCubes"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 0
+  charClass: "JuiceCubesChar"
+  prefab: {fileID: 1790292974091323636, guid: 61839b6de02f4e8c9b67cbfde66c7a3c, type: 2}
+  positions: 1
+  weightMod: 0
+  elevatorDirectionMod: 1
+  hasDestination: 1
+  charsArtList:
+  - {fileID: 11400000, guid: 5bc45803c2db4ebd9d6c89f66cb9b7a0, type: 2}
+  - {fileID: 11400000, guid: 127a0a4bd47d4882979202b96a5346de, type: 2}
+  - {fileID: 11400000, guid: 436d267e037843a6bfe5c951d6e49379, type: 2}
+  specialCharIntroAnimPrefab: {fileID: 0}
+  elevatorStatusSprite: {fileID: 0}
+  specialCharGeneralAnim: {fileID: 0}

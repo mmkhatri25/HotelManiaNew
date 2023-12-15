@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: "RomanAnimationsOC"
+  m_Controller: {fileID: 9100000, guid: ba5c490b8e4e43bbbe88e1e4a5e7eed1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: f32f32feeebe40db9023a7bc5e276d6e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 121929f08d2e4a0f90f214e5fc1c5392, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f9cbbc566b4e49ceb5490df3042d2dcd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 761691ff6ffb4a57aeb6ae3dfd5070b3, type: 2}

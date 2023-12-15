@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "PoolCharArt1"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: a29f69e0016e4edf9294d5d55ec0a85f, type: 3}
+  legLeft: {fileID: 21300000, guid: 7d6a73c6d6864134a016f3a26ff4fa4d, type: 3}
+  legRigth: {fileID: 21300000, guid: bbec57819bfd4564a22bd930c3ce19a9, type: 3}

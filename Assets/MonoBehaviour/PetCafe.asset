@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "PetCafe"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 0
+  charClass: "PetChar"
+  prefab: {fileID: 1790292974091323636, guid: 61839b6de02f4e8c9b67cbfde66c7a3c, type: 2}
+  positions: 1
+  weightMod: 0
+  elevatorDirectionMod: 1
+  hasDestination: 1
+  charsArtList:
+  - {fileID: 11400000, guid: 2f128719228645619a178617e6d61ab9, type: 2}
+  - {fileID: 11400000, guid: 4c1582396b7447d6bd64be8d0e32ffc1, type: 2}
+  - {fileID: 11400000, guid: 6de28f3526264b1e8ad324ddc5a77404, type: 2}
+  specialCharIntroAnimPrefab: {fileID: 0}
+  elevatorStatusSprite: {fileID: 0}
+  specialCharGeneralAnim: {fileID: 0}

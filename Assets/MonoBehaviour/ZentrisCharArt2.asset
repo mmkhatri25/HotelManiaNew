@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "ZentrisCharArt2"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: a6f8485243c343039048d4fb2b36cdd8, type: 3}
+  legLeft: {fileID: 21300000, guid: 72045b5961e34213b3bdbbafe17d9cd3, type: 3}
+  legRigth: {fileID: 21300000, guid: 7b24604f75004459b416ef4e9b8ad817, type: 3}

@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "TheaterCharArt3"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: 5c07e46718ae49ea980b05b4135a2e2b, type: 3}
+  legLeft: {fileID: 21300000, guid: 124a625bfe8e4f18b54aada5638d8809, type: 3}
+  legRigth: {fileID: 21300000, guid: 6a0c6a9cb3bd47dc86014d1b78bc7f31, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "Discotheque"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 0
+  charClass: "DiscothequeChar"
+  prefab: {fileID: 1790292974091323636, guid: 61839b6de02f4e8c9b67cbfde66c7a3c, type: 2}
+  positions: 1
+  weightMod: 0
+  elevatorDirectionMod: 1
+  hasDestination: 1
+  charsArtList:
+  - {fileID: 11400000, guid: 6e50012e18774003992593a428888139, type: 2}
+  - {fileID: 11400000, guid: 84d5cb4c8632469d8e6bd707025c9146, type: 2}
+  - {fileID: 11400000, guid: 713c09b0faa741b18f3ad7b0302984c3, type: 2}
+  specialCharIntroAnimPrefab: {fileID: 0}
+  elevatorStatusSprite: {fileID: 0}
+  specialCharGeneralAnim: {fileID: 0}

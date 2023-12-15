@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "BookStoreCharArt3"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: e6f28251fe7c4c3ab8ae1cb5afd609e9, type: 3}
+  legLeft: {fileID: 21300000, guid: e286b381b68d4138913f7ca59333e6c6, type: 3}
+  legRigth: {fileID: 21300000, guid: fb2bf257ae1b4373932590442d71962f, type: 3}

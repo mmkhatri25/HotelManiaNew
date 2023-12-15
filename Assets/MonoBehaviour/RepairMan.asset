@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e2509f583929a80fc35bce413f34241, type: 3}
+  m_Name: "RepairMan"
+  m_EditorClassIdentifier: 
+  baseStatsSO: {fileID: 11400000, guid: fc56df402f3b491fb9e3695b0d8d5b7b, type: 2}
+  isSpecialChar: 1
+  charClass: "RepairMan"
+  prefab: {fileID: 1790292974091324051, guid: 5970285199294861ba571198052060f6, type: 2}
+  positions: 1
+  weightMod: -0.33
+  elevatorDirectionMod: 1
+  hasDestination: 1
+  charsArtList: []
+  specialCharIntroAnimPrefab: {fileID: 1790292974091324170, guid: 544d4ab4a8a64e6ca4626293bb665091, type: 2}
+  elevatorStatusSprite: {fileID: 21300000, guid: cf755d050a3f4219bce3422248a3d283, type: 3}
+  specialCharGeneralAnim: {fileID: 1790292974091324818, guid: 12954e1a82ee4a50b1fbff9ef16f59e2, type: 2}

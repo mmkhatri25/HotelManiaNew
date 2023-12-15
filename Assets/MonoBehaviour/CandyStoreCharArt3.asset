@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "CandyStoreCharArt3"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: a74038bb934c42aa8bfaaa4d0b078fea, type: 3}
+  legLeft: {fileID: 21300000, guid: 56d14260b24242b89b3424175f2fc1db, type: 3}
+  legRigth: {fileID: 21300000, guid: a15c8f89095647fea8a2c8080b2d67fe, type: 3}

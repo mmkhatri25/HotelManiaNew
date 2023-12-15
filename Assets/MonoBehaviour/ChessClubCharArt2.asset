@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "ChessClubCharArt2"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: b5767e4045b344ce8a6b2e8707e79d49, type: 3}
+  legLeft: {fileID: 21300000, guid: a5576d5566424878a6b130ac414086df, type: 3}
+  legRigth: {fileID: 21300000, guid: 0980a80353b44a0285be719062177655, type: 3}

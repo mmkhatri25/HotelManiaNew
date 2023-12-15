@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89fe5d9b44801d96037fcd4ccceb1b61, type: 3}
+  m_Name: "GraveyardArt2"
+  m_EditorClassIdentifier: 
+  body: {fileID: 21300000, guid: 2c2bcd4412b84442ac56a5be2b397838, type: 3}
+  legLeft: {fileID: 21300000, guid: b967d1bc8129419d857d572dbc3e822c, type: 3}
+  legRigth: {fileID: 21300000, guid: bb19cb22fbad429a9d28fc6f4f55bac7, type: 3}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fdccda34f8e1060c8541227286b40fe6, type: 3}
+  m_Name: "Laboratory"
+  m_EditorClassIdentifier: 
+  floorName: "Laboratory"
+  speed: 1
+  positions: 10
+  gap: 0.48
+  floorPoints: 1
+  floorArt: {fileID: 1790292974091323652, guid: 3c67f452d4e74b6ca6b9471361e4cf0b, type: 2}
+  floorSprite: {fileID: 21300000, guid: c7660d6a41d4485ca9b5f7ad27a19db1, type: 3}
+  floorCharacter: {fileID: 11400000, guid: 1793e8d2a87f4f918701f8e18a988a83, type: 2}
+  char1: {fileID: 21300000, guid: 86e1fc621c5d41afb537d66277c50b2e, type: 3}
+  char2: {fileID: 21300000, guid: 07634eb1b1404833bdff9a92a7395f7f, type: 3}
+  char3: {fileID: 21300000, guid: 0524636ba6fd42bea0410a14ebf4afe5, type: 3}
+  displayName: "Evil Scientist Lab"
+  displayDesc: "It's alive!!!"
+  neverEquipped: 1
+  isSecret: 0

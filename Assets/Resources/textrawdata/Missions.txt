@@ -1,0 +1,146 @@
+FLOOR,TIER,GROUP,TYPE,DIFFICULTY,DESCRIPTION,VARIABLE A,VARIABLE B,XP REW,COIN REW,ENABLED
+Full House,1,Join,Total,Easy,Gather 2 VIPs 2 times in the elevator,2,-,0,150,1
+Full House,2,Join,Total,Easy,Gather 2 VIPs 3 times in the elevator,3,-,0,200,1
+Full House,3,Join,Total,Medium,Gather 2 VIPs 5 times in the elevator,5,-,0,300,1
+Full House,4,Join,Total,Medium,Gather 2 VIPs 6 times in the elevator,6,-,0,400,1
+Full House,5,Join,Total,Hard,Gather 2 VIPs 12 times in the elevator,12,-,0,800,1
+Private Party,1,Join,Total,Easy,Fill the elevator with VIPs 1 times,1,-,0,150,1
+Private Party,2,Join,Total,Easy,Fill the elevator with VIPs 2 times,2,-,0,200,1
+Private Party,3,Join,Total,Medium,Fill the elevator with VIPs 3 times,3,-,0,380,1
+Private Party,4,Join,Total,Medium,Fill the elevator with VIPs 4 times,4,-,0,450,1
+Private Party,5,Join,Total,Hard,Fill the elevator with VIPs 8 times,8,-,0,1000,1
+Hijack,1,Feat,Single,Easy,In one game keep a VIP in the elevator for 4 sec,4,-,0,100,1
+Hijack,2,Feat,Single,Easy,In one game keep a VIP in the elevator for 5 sec,5,-,0,150,1
+Hijack,3,Feat,Single,Medium,In one game keep a VIP in the elevator for 8 sec,8,-,0,200,1
+Hijack,4,Feat,Single,Medium,In one game keep a VIP in the elevator for 10 sec,10,-,0,250,1
+Hijack,5,Feat,Single,Hard,In one game keep a VIP in the elevator for 20 sec,20,-,0,500,1
+Vigilant,1,Feat,Total,Easy,Tap 8 NPCs,8,-,0,0,0
+Vigilant,2,Feat,Total,Easy,Tap 12 NPCs,12,-,0,0,0
+Vigilant,3,Feat,Total,Medium,Tap 22 NPCs,22,-,0,0,0
+Vigilant,4,Feat,Total,Medium,Tap 30 NPCs,30,-,0,0,0
+Vigilant,5,Feat,Total,Hard,Tap 50 NPCs,50,-,0,0,0
+Marksman,1,Feat,Total,Easy,Tap 2 NPCs in one game,2,-,0,10,0
+Marksman,2,Feat,Total,Easy,Tap 3 NPCs in one game,3,-,0,25,0
+Marksman,3,Feat,Total,Medium,Tap 5 NPCs in one game,5,-,0,40,0
+Marksman,4,Feat,Total,Medium,Tap 6 NPCs in one game,6,-,0,50,0
+Marksman,5,Feat,Total,Hard,Tap 8 NPCs in one game,8,-,0,100,0
+Love Birds,1,Deliver,Total,Easy,Deliver 3 Newlyweds,3,-,0,120,1
+Love Birds,2,Deliver,Total,Easy,Deliver 4 Newlyweds,4,-,0,160,1
+Love Birds,3,Deliver,Total,Medium,Deliver 6 Newlyweds,6,-,0,220,1
+Love Birds,4,Deliver,Total,Medium,Deliver 8 Newlyweds,8,-,0,260,1
+Love Birds,5,Deliver,Total,Hard,Deliver 14 Newlyweds,14,-,0,550,1
+Atlas,1,Deliver,Total,Easy,Deliver 3 Haulers,3,-,0,100,1
+Atlas,2,Deliver,Total,Easy,Deliver 4 Haulers,4,-,0,150,1
+Atlas,3,Deliver,Total,Medium,Deliver 6 Haulers,6,-,0,200,1
+Atlas,4,Deliver,Total,Medium,Deliver 8 Haulers,8,-,0,250,1
+Atlas,5,Deliver,Total,Hard,Deliver 14 Haulers,14,-,0,500,1
+Throuple,1,Join,Total,Easy,Join the Newlyweds & Repairman in the elevator 3 times,3,-,0,150,0
+Throuple,2,Join,Total,Easy,Join the Newlyweds & Repairman in the elevator 7 times,7,-,0,200,0
+Throuple,3,Join,Total,Medium,Join the Newlyweds & Repairman in the elevator 4 times,4,-,0,380,1
+Throuple,4,Join,Total,Medium,Join the Newlyweds & Repairman in the elevator 6 times,6,-,0,450,1
+Throuple,5,Join,Total,Hard,Join the Newlyweds & Repairman in the elevator 10 times,10,-,0,1000,1
+Frank & Igor,1,Join,Total,Easy,Join the Scientist & Hauler in the elevator 3 times,3,-,0,150,0
+Frank & Igor,2,Join,Total,Easy,Join the Scientist & Hauler in the elevator 7 times,7,-,0,200,0
+Frank & Igor,3,Join,Total,Medium,Join the Scientist & Hauler in the elevator 4 times,4,-,0,300,1
+Frank & Igor,4,Join,Total,Medium,Join the Scientist & Hauler in the elevator 6 times,6,-,0,400,1
+Frank & Igor,5,Join,Total,Hard,Join the Scientist & Hauler in the elevator 10 times,10,-,0,800,1
+Nonstop,1,Record,Total,Easy,Play for over 3 min,180,-,0,100,1
+Nonstop,2,Record,Total,Easy,Play for over 4 min,240,-,0,150,1
+Nonstop,3,Record,Total,Medium,Play for over 8 min,480,-,0,200,1
+Nonstop,4,Record,Total,Medium,Play for over 9 min,540,-,0,250,1
+Nonstop,5,Record,Total,Hard,Play for over 12 min,720,-,0,500,1
+Workload,1,Deliver,Total,Easy,Deliver 20 characters,20,-,0,100,1
+Workload,2,Deliver,Total,Easy,Deliver 30 characters,30,-,0,150,1
+Workload,3,Deliver,Total,Medium,Deliver 100 characters,100,-,0,200,1
+Workload,4,Deliver,Total,Medium,Deliver 120 characters,120,-,0,250,1
+Workload,5,Deliver,Total,Hard,Deliver 300 characters,300,-,0,500,1
+Busy,1,Deliver,Single,Easy,In one game deliver 5 characters to Floor X,5,X,0,150,1
+Busy,2,Deliver,Single,Easy,In one game deliver 6 characters to Floor X,6,X,0,200,1
+Busy,3,Deliver,Single,Medium,In one game deliver 10 characters to Floor X,10,X,0,380,1
+Busy,4,Deliver,Single,Medium,In one game deliver 12 characters to Floor X,12,X,0,450,1
+Busy,5,Deliver,Single,Hard,In one game deliver 20 characters to Floor X,20,X,0,1000,1
+Amity,1,Join,Total,Easy,Group 2 character Families,2,-,0,150,0
+Amity,2,Join,Total,Easy,Group 3 character Families,3,-,0,200,0
+Amity,3,Join,Total,Medium,Group 5 character Families,5,-,0,380,0
+Amity,4,Join,Total,Medium,Group 6 character Families,6,-,0,450,0
+Amity,5,Join,Total,Hard,Group 10 character Families,10,-,0,1000,0
+Kindred,1,Join,Total,Easy,Match 8 characters,8,-,0,100,1
+Kindred,2,Join,Total,Easy,Match 9 characters,9,-,0,150,1
+Kindred,3,Join,Total,Medium,Match 14 characters,14,-,0,200,1
+Kindred,4,Join,Total,Medium,Match 15 characters,15,-,0,250,1
+Kindred,5,Join,Total,Hard,Match 22 characters,22,-,0,500,1
+Exclusive,1,Deliver,Total,Easy,Deliver 4 VIPs,4,-,0,100,1
+Exclusive,2,Deliver,Total,Easy,Deliver 5 VIPs,5,-,0,150,1
+Exclusive,3,Deliver,Total,Medium,Deliver 9 VIPs,9,-,0,200,1
+Exclusive,4,Deliver,Total,Medium,Deliver 10 VIPs,10,-,0,250,1
+Exclusive,5,Deliver,Total,Hard,Deliver 20 VIPs,20,-,0,500,1
+Favoritism,1,Deliver,Single,Easy,In one game deliver 4 VIPs,4,-,0,150,1
+Favoritism,2,Deliver,Single,Easy,In one game deliver 5 VIPs,5,-,0,200,1
+Favoritism,3,Deliver,Single,Medium,In one game deliver 8 VIPs,8,-,0,300,1
+Favoritism,4,Deliver,Single,Medium,In one game deliver 10 VIPs,10,-,0,400,1
+Favoritism,5,Deliver,Single,Hard,In one game deliver 16 VIPs,16,-,0,800,1
+Marathon,1,Lift,Total,Easy,Move the elevator 60 m in total,60,-,0,100,1
+Marathon,2,Lift,Total,Easy,Move the elevator 80 m in total,80,-,0,150,1
+Marathon,3,Lift,Total,Medium,Move the elevator 160 m in total,160,-,0,200,1
+Marathon,4,Lift,Total,Medium,Move the elevator 200 m in total,200,-,0,250,1
+Marathon,5,Lift,Total,Hard,Move the elevator 400 m in total,400,-,0,500,1
+RPM,1,Lift,Single,Easy,In one game move the elevator 40 m,40,-,0,150,1
+RPM,2,Lift,Single,Easy,In one game move the elevator 50 m,50,-,0,200,1
+RPM,3,Lift,Single,Medium,In one game move the elevator 80 m,80,-,0,300,1
+RPM,4,Lift,Single,Medium,In one game move the elevator 100 m,100,-,0,400,1
+RPM,5,Lift,Single,Hard,In one game move the elevator 220 m,220,-,0,800,1
+Power Nap,1,Feat,Single,Easy,In one game stay on Floor X for 5 sec,5,X,0,100,1
+Power Nap,2,Feat,Single,Easy,In one game stay on Floor X for 6 sec,6,X,0,150,1
+Power Nap,3,Feat,Single,Medium,In one game stay on Floor X for 10 sec,10,X,0,200,1
+Power Nap,4,Feat,Single,Medium,In one game stay on Floor X for 12 sec,12,X,0,250,1
+Power Nap,5,Feat,Single,Hard,In one game stay on Floor X for 20 sec,20,X,0,500,1
+Supplements,1,Powers,Total,Easy,Use 2 Powerups,2,-,0,150,1
+Supplements,2,Powers,Total,Easy,Use 4 Powerups,4,-,0,200,1
+Supplements,3,Powers,Total,Medium,Use 6 Powerups,6,-,0,300,1
+Supplements,4,Powers,Total,Medium,Use 8 Powerups,8,-,0,400,1
+Supplements,5,Powers,Total,Hard,Use 14 Powerups,14,-,0,800,1
+Straight edge,1,Powers,Total,Easy,Complete 2 games without Powerups,2,-,0,100,1
+Straight edge,2,Powers,Total,Easy,Complete 3 games without Powerups,3,-,0,150,1
+Straight edge,3,Powers,Total,Medium,Complete 4 games without Powerups,4,-,0,200,1
+Straight edge,4,Powers,Total,Medium,Complete 6 games without Powerups,6,-,0,250,1
+Straight edge,5,Powers,Total,Hard,Complete 8 games without Powerups,8,-,0,500,1
+Hardwork,1,Record,Total,Easy,Accumulate 2000 score,2000,-,0,100,1
+Hardwork,2,Record,Total,Easy,Accumulate 2200 score,2200,-,0,150,1
+Hardwork,3,Record,Total,Medium,Accumulate 4000 score,4000,-,0,200,1
+Hardwork,4,Record,Total,Medium,Accumulate 4400 score,4400,-,0,250,1
+Hardwork,5,Record,Total,Hard,Accumulate 8000 score,8000,-,0,500,1
+Prodigy,1,Record,Single,Easy,In one game reach 750 score,750,-,0,150,1
+Prodigy,2,Record,Single,Easy,In one game reach 800 score,800,-,0,200,1
+Prodigy,3,Record,Single,Medium,In one game reach 1500 score,1500,-,0,380,1
+Prodigy,4,Record,Single,Medium,In one game reach 1600 score,1600,-,0,450,1
+Prodigy,5,Record,Single,Hard,In one game reach 2200 score,2200,-,0,1000,1
+Intervention,1,Feat,Total,Easy,Stop 2 events before they run out,2,-,0,150,1
+Intervention,2,Feat,Total,Easy,Stop 3 events before they run out,3,-,0,200,1
+Intervention,3,Feat,Total,Medium,Stop 5 events before they run out,5,-,0,300,1
+Intervention,4,Feat,Total,Medium,Stop 6 events before they run out,6,-,0,400,1
+Intervention,5,Feat,Total,Hard,Stop 10 events before they run out,10,-,0,800,1
+Eureka!,1,Deliver,Total,Easy,Deliver 3 Scientists,3,-,0,100,1
+Eureka!,2,Deliver,Total,Easy,Deliver 4 Scientists,4,-,0,150,1
+Eureka!,3,Deliver,Total,Medium,Deliver 6 Scientists,6,-,0,200,1
+Eureka!,4,Deliver,Total,Medium,Deliver 8 Scientists,8,-,0,250,1
+Eureka!,5,Deliver,Total,Hard,Deliver 14 Scientists,14,-,0,500,1
+Molten Core!,1,Deliver,Total,Easy,Deliver 3 Repairmen,3,-,0,100,1
+Molten Core!,2,Deliver,Total,Easy,Deliver 4 Repairmen,4,-,0,150,1
+Molten Core!,3,Deliver,Total,Medium,Deliver 6 Repairmen,6,-,0,200,1
+Molten Core!,4,Deliver,Total,Medium,Deliver 8 Repairmen,8,-,0,250,1
+Molten Core!,5,Deliver,Total,Hard,Deliver 14 Repairmen,14,-,0,500,1
+Steady,1,Lift,Total,Easy,Get 6 Perfect elevator stops,6,-,0,100,1
+Steady,2,Lift,Total,Easy,Get 8 Perfect elevator stops,8,-,0,150,1
+Steady,3,Lift,Total,Medium,Get 12 Perfect elevator stops,12,-,0,200,1
+Steady,4,Lift,Total,Medium,Get 16 Perfect elevator stops,16,-,0,250,1
+Steady,5,Lift,Total,Hard,Get 22 Perfect elevator stops,22,-,0,500,1
+Pinpoint,1,Lift,Single,Easy,In one game get 3 Perfect elevator stops,3,-,0,150,1
+Pinpoint,2,Lift,Single,Easy,In one game get 4 Perfect elevator stops,4,-,0,200,1
+Pinpoint,3,Lift,Single,Medium,In one game get 6 Perfect elevator stops,6,-,0,300,1
+Pinpoint,4,Lift,Single,Medium,In one game get 8 Perfect elevator stops,8,-,0,400,1
+Pinpoint,5,Lift,Single,Hard,In one game get 12 Perfect elevator stops,12,-,0,800,1
+Spotless,1,Lift,Single,Easy,In one game have no 'Meh' elevator stops for 5 sec,5,-,0,100,1
+Spotless,2,Lift,Single,Easy,In one game have no 'Meh' elevator stops for 6 sec,6,-,0,150,1
+Spotless,3,Lift,Single,Medium,In one game have no 'Meh' elevator stops for 10 sec,10,-,0,200,1
+Spotless,4,Lift,Single,Medium,In one game have no 'Meh' elevator stops for 12 sec,12,-,0,250,1
+Spotless,5,Lift,Single,Hard,In one game have no 'Meh' elevator stops for 20 sec,20,-,0,500,1

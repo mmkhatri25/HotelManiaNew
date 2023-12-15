@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6dd6a2c5291057af695e5a38f05801b6, type: 3}
+  m_Name: "NormalElevator_001"
+  m_EditorClassIdentifier: 
+  currentGapOfPositions: 0.28
+  speed: 2.7
+  accelerationTime: 0.5
+  autoAdjustSpeed: 60
+  positions: 3
+  doorSpeed: 10
+  weight: 1
+  perfectSnap: 0.175
+  goodSnap: 0.4
+  weightMinClamp: 0.2
+  weightMaxClamp: 3.5
